@@ -1,55 +1,59 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!-- SYNC IMPACT REPORT
+Version change: N/A -> 1.0.0
+Added sections: Professional Credibility, Trust Through Partnership, Value-Driven Sales, Maintenance Awareness, Technical Accuracy, SEO Integration, Key Standards, Development Constraints
+Templates requiring updates: N/A (new constitution)
+Follow-up TODOs: None
+-->
+# ANtech Official Website & Brand Identity Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### Professional Credibility
+Content must reflect a high-end tech firm capable of handling enterprise-level solutions.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### Trust Through Partnership
+Explicitly highlight the collaboration with Vision Plus to leverage their established market reputation.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### Value-Driven Sales
+Focus on how products (ERP, POS, etc.) solve specific business pain points, not just listing features.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### Maintenance Awareness
+Subtly integrate the "Service + Maintenance" model so clients understand the long-term support value.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### Technical Accuracy
+All descriptions for FBR Invoicing and SaaS products must use industry-standard terminology.
 
-### [PRINCIPLE_6_NAME]
+### SEO Integration
+Target keywords including "SaaS Pakistan," "FBR Invoicing Software," "ERP Solutions," and "Custom Software Development."
 
+## Key Standards
 
-[PRINCIPLE__DESCRIPTION]
+Page Structure: Content must be strictly organized for 6 pages: Home, About, Services, Products, Blog, and Contact.
 
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
+Product Categorization: Distinguish clearly between "In-house Products" (POS, FBR Invoicing) and "Enterprise Solutions via Vision Plus" (ERP, HCM, HMIS, REMS).
 
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
+Tone & Voice: Professional, authoritative, yet approachable (B2B focused).
 
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
+## Development Constraints
 
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+Originality: Must not be a direct copy of Vision Plus; content must be unique to ANtech.
+
+Clarity: Avoid overly dense technical jargon; explain complex SaaS benefits in simple business terms.
+
+Call to Action (CTA): Every page must end with a clear CTA (e.g., "Request a Demo" or "Get a Quote").
+
+Link Integrity: Ensure references to Vision Plus point to https://www.visionplus.com.pk/ where appropriate.
+
+## Success Criteria
+
+Unified Brand Voice: ANtech sounds like a modern, reliable tech leader.
+
+Conversion Readiness: The "Products" and "Services" pages provide enough detail to prompt a sales inquiry.
+
+Maintenance Transparency: Clients clearly understand that products come with ongoing support and maintenance charges.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+All PRs/reviews must verify compliance with brand voice and messaging; Content must align with established brand guidelines; Page structure must follow the 6-page requirement; All CTAs must be clear and consistent.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2026-01-23 | **Last Amended**: 2026-01-23

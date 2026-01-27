@@ -1,0 +1,78 @@
+[
+  {
+    "id": "web-development",
+    "name": "Web Development",
+    "description": "Custom web applications tailored to your business needs using modern technologies.",
+    "features": [
+      "Responsive Design",
+      "Cloud Deployment",
+      "API Integration",
+      "Ongoing Support"
+    ],
+    "targetAudience": [
+      "Small Businesses",
+      "Enterprises",
+      "Startups"
+    ],
+    "isFeatured": true,
+    "imageUrl": "/images/web-development.jpg",
+    "ctaText": "Get Quote"
+  },
+  {
+    "id": "seo",
+    "name": "SEO Services",
+    "description": "Improve your online visibility and drive organic traffic to your website.",
+    "features": [
+      "Keyword Research",
+      "On-page Optimization",
+      "Link Building",
+      "Performance Tracking"
+    ],
+    "targetAudience": [
+      "E-commerce",
+      "Local Businesses",
+      "B2B Companies"
+    ],
+    "isFeatured": true,
+    "imageUrl": "/images/seo-services.jpg",
+    "ctaText": "Get Quote"
+  },
+  {
+    "id": "hosting",
+    "name": "Web Hosting",
+    "description": "Reliable and secure hosting solutions for your websites and applications.",
+    "features": [
+      "99.9% Uptime",
+      "24/7 Support",
+      "SSL Certificates",
+      "Daily Backups"
+    ],
+    "targetAudience": [
+      "Startups",
+      "Agencies",
+      "Enterprises"
+    ],
+    "isFeatured": true,
+    "imageUrl": "/images/web-hosting.jpg",
+    "ctaText": "Get Quote"
+  },
+  {
+    "id": "smm",
+    "name": "Social Media Marketing",
+    "description": "Engage your audience and grow your brand presence on social platforms.",
+    "features": [
+      "Content Creation",
+      "Community Management",
+      "Paid Advertising",
+      "Analytics"
+    ],
+    "targetAudience": [
+      "Brands",
+      "E-commerce",
+      "Service Providers"
+    ],
+    "isFeatured": true,
+    "imageUrl": "/images/smm.jpg",
+    "ctaText": "Get Quote"
+  }
+]
